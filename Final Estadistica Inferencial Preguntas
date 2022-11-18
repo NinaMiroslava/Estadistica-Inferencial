@@ -1,0 +1,11 @@
+# (1) ¿Cuál fue el motivo de elegir tu base de datos?
+######Sabemos que Microsoft es lider en tecnología en el mundo y es una de las acciones más fuertes en la bolsa de EEUU. Creemos que su solidez y relevancia en el mercado son un punto interesante a analizar y su comportamiento sin duda es relevante para los mercados en general
+
+#(2) ¿Cuáles fueron tus fuentes para desarrollar el proyecto?
+######La comprensión de los temas vistos en el curso y el ya tener un conocimiento previo para programar en python fueron claves para desarrollarlo. Ha sido muy interesante revisarlo.
+
+#(3) ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
+######El comprender como funciona una regresión era el objetivo principal para el desarrollo de este proyecto, al igual que la interpretación de los resultados obtenidos para entender el comportamiento de la serie financiera
+
+#(4) ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables explicativas y cuál fue tu variable responsiva?
+######En primera instancia, tomamos el precio de cierre del mercado diario (variable independiente) y el volumen registrado diario de trading (variable dependiente) fueron tomados,pero dado que r^2 representaba un 0.05%, fue necesario hacer una segunda regresión, la cual fue multiple y se tomaron las mismas variables bajo los mismos conceptos pero se auno una variable indepeniente: la varianza de la acción.
